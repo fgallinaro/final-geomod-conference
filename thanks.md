@@ -1,1 +1,1 @@
-Thanks! Your registration has been completed. If you have requested financial support, we will be in touch soon.
+Registration is not available at the moment. Please try again in a few days.
