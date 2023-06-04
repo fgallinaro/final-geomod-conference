@@ -5,7 +5,7 @@
 <body>
 <body bgcolor="Lightskyblue">
 <form>
-<form action="geomod-conference.github.io/secret_data.md">
+<form name="xyz_form" action="proces.php" method="get">
 <label> First name: </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
 
