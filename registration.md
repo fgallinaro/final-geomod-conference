@@ -1,4 +1,4 @@
-<Html>
+<html>
 <head> 
 <h1>Registration</h1>
 </head>
