@@ -1,5 +1,5 @@
 <?php
-    $keys = array('id_number','first_name');
+    $keys = array('firstname','lastname');
     $csv_line = array();
     foreach($keys as $key){
         array_push($csv_line,'' . $_GET[$key]);
