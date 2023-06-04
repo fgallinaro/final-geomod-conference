@@ -2,11 +2,7 @@
 
 <head> 
 
-<title>
-
-Registration Page
-
-</title>
+<h1>Registration</h1>
 
 </head>
 
@@ -86,6 +82,4 @@ Phone :
 Address
 
 <br>
-
-<textarea cols="80" rows="5" value="address">
 
