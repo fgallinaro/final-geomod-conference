@@ -2,8 +2,8 @@
 <head> 
 <h1>Registration</h1>
 </head>
-<body>
 <body bgcolor="Lightskyblue">
+<body>
 <form>
 <form name="xyz_form" action="https://fgallinaro.github.io/geomod-conference.github.io/thanks" method="get">
 <label> First name: </label>       
