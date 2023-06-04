@@ -12,7 +12,7 @@
 <li>Zoé Chatzidakis</li>
 <li>Artem Chernikov</li>
 <li>Javier de la Nuez González</li>
-<li>Christian d’Elbee</li>
+<li>Christian d’Elbée</li>
 <li>Itay Kaplan</li>
 <li>Konstantinos Kartas</li>
 <li>Martin Hils</li>
