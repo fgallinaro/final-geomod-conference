@@ -26,7 +26,7 @@
 
 <label>Would you like to contribute a talk? if yes, please provide a title and abstract.</label>
 <input type="text" name="talk" size="1000"/> <br> <br>
-<input type="button" value="Submit"/>  
+<input type="submit" value="Submit"/>  
 
   </form>
   </body>
