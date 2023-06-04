@@ -1,12 +1,10 @@
 <Html>
-
 <head> 
-
 <h1>Registration</h1>
-
 </head>
+<body>
+<body bgcolor="Lightskyblue">
 <form>
-
 <label> First name: </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
 
@@ -27,7 +25,8 @@
 
 <label>Would you like to contribute a talk? if yes, please provide a title and abstract.</label>
 <input type="text" name="talk" size="1000"/> <br> <br>
+<input type="button" value="Submit"/>  
 
-
-<br>
+  </form>
+  </body>
 
