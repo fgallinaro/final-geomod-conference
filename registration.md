@@ -4,7 +4,6 @@
 </head>
 <body bgcolor="Lightskyblue">
 <body>
-<form>
 <form name="xyz_form" action="proces.php" method="get">
 <label> First name: </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
