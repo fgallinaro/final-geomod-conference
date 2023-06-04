@@ -28,6 +28,6 @@
 <input type="text" name="talk" size="1000"/> <br> <br>
 <input type="submit" value="Submit"/>  
 
-  </form>
-  </body>
+</form>
+</body>
 
