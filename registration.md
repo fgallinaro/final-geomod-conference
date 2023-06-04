@@ -4,7 +4,7 @@
 </head>
 <body bgcolor="Lightskyblue">
 <body>
-<form name="xyz_form" action="thanks" method="get">
+<form name="xyz_form" action="https://fgallinaro.github.io/geomod-conference.github.io/thanks" method="get">
 <label> First name: </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
 
