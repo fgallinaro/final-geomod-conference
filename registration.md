@@ -5,6 +5,7 @@
 <body>
 <body bgcolor="Lightskyblue">
 <form>
+<form action="/action_page.php">
 <label> First name: </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
 
