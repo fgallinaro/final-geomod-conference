@@ -1,6 +1,6 @@
 <html>
 <body>
-This is the webpage for the final conference of the network <a href="https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html#">GEOMOD</a>, to be held in Freiburg from the 13th to the 17th of November 2023.
+This is the webpage for the final conference of the network <a href="https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html#">GEOMOD</a>, to be held in Freiburg from the 13th to the 17th of November 2023. The conference will start on the 13th (Monday) around 9:30AM and it will end on the 17th (Friday) around 4PM.
   
 <h3> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTvK9ZXvguEU7WPXCRn7qszaf64tsUdq4f2KwuuJxVxxVsAA/viewform">Registration</a> | <a href="https://fgallinaro.github.io/geomod-conference.github.io/speakers">Speakers</a> | <a href="https://fgallinaro.github.io/geomod-conference.github.io/travel-information">Travel Information</a></h3>
    
@@ -9,8 +9,8 @@ To contact the organizing committee, you may send an e-mail at <a href="&#109;&#
   
 ---
 
-Scientific committee: Sylvy Anscombe (Paris), Martin Bays (M&uuml;nster/Oxford), Gabriel Conant (Ohio), Rahim Moosa (Waterloo), Frank Wagner (Lyon).
+  Scientific committee: <a href="http://www.sylvyanscombe.com/">Sylvy Anscombe</a> (Paris), <a href="https://ivv5hpp.uni-muenster.de/u/baysm/">Martin Bays</a> (M&uuml;nster/Oxford), <a href="https://people.math.osu.edu/conant.38/">Gabriel Conant</a> (Ohio), <a href="https://www.math.uwaterloo.ca/~rmoosa/">Rahim Moosa</a> (Waterloo), <a href="http://math.univ-lyon1.fr/homes-www/wagner/fowae.html">Frank Wagner</a> (Lyon).
   
-Organising committee: Charlotte Bartnick, Francesco Gallinaro, Amador Martin-Pizarro (Freiburg). 
+Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/">Charlotte Bartnick</a>, <a href="https://fgallinaro.github.io/">Francesco Gallinaro</a>, <a href="https://home.mathematik.uni-freiburg.de/pizarro/index.html">Amador Martin-Pizarro</a> (Freiburg). 
   
 <html>
