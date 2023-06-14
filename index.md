@@ -7,12 +7,11 @@ This is the webpage for the final conference of the network <a href="https://hom
 To contact the organizing committee, you may send an e-mail at <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#101;&#111;&#109;&#111;&#100;&#99;&#111;&#110;&#102;&#64;&#109;&#97;&#116;&#104;&#46;&#117;&#110;&#105;&#45;&#102;&#114;&#101;&#105;&#98;&#117;&#114;&#103;&#46;&#100;&#101;">&#116;&#104;&#105;&#115;&#32;&#97;&#100;&#100;&#114;&#101;&#115;&#115;</a>.
 </body>
   
----
-
-<font size=8>
+  <h2> </h2>
+<xx-small>
 Scientific committee: <a href="http://www.sylvyanscombe.com/">Sylvy Anscombe</a> (Paris), <a href="https://ivv5hpp.uni-muenster.de/u/baysm/">Martin Bays</a> (M&uuml;nster/Oxford), <a href="https://people.math.osu.edu/conant.38/">Gabriel Conant</a> (Ohio), <a href="https://www.math.uwaterloo.ca/~rmoosa/">Rahim Moosa</a> (Waterloo), <a href="http://math.univ-lyon1.fr/homes-www/wagner/fowae.html">Frank Wagner</a> (Lyon). </p>
   
 Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/">Charlotte Bartnick</a>, <a href="https://fgallinaro.github.io/">Francesco Gallinaro</a>, <a href="https://home.mathematik.uni-freiburg.de/pizarro/index.html">Amador Martin-Pizarro</a> (Freiburg). </p>
-</font>
+</xx-small>
   
 <html>
