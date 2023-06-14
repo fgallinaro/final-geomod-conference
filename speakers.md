@@ -8,26 +8,26 @@
 <p>A tentative list of speakers is as follows:</p>
 
 <ul> 
-<li>Benjamin Castle (Ben-Gurion)</li>
-<li>Zoé Chatzidakis (CNRS, Paris) </li>
-<li>Artem Chernikov (UCLA) </li>
-<li>Javier de la Nuez González (KIAS)</li>
-<li>Christian d’Elbée (Bonn/Leeds)</li>
-<li>Itay Kaplan (Jerusalem)</li>
-<li>Konstantinos Kartas (Paris)</li>
-<li>Martin Hils (M&uuml;nster)</li>
-<li>Rémi Jaoui (CNRS, Lyon)</li>
-<li>Rosario Mennuni (Pisa)</li>
-<li>Isabel M&uuml;ller (Cairo)</li>
-<li>Daniel Palacin (Madrid)</li>
-<li>Adele Padgett (McMaster)</li>
-<li>Kobi Peterzil (Haifa)</li>
-<li>Anand Pillay (Notre Dame)</li>
-<li>Nick Ramsey (Notre Dame)</li>
-<li>Silvain Rideau-Kikuchi (CNRS, Paris)</li>
-<li>Omar Leon Sanchez (Manchester)</li>
-<li>Nadja Hempel Valentin (D&uuml;sseldorf)</li>
-<li>Martin Ziegler (Freiburg)</li>
+<li>Benjamin Castle (Ben-Gurion University of the Negev, Be'er Sheva)</li>
+  <li><a href="https://www.math.ens.psl.eu/~zchatzid/">Zoé Chatzidakis</a> (CNRS, Paris) </li>
+<li><a href="https://www.math.ucla.edu/~chernikov/">Artem Chernikov</a> (UCLA, Los Angeles) </li>
+<li>Javier de la Nuez González (KIAS, Seoul)</li>
+  <li><a href="https://choum.net/~chris/page_perso/">Christian d’Elbée</a> (Universit&auml;t Bonn/University of Leeds)</li>
+  <li><a href="https://mathematics.huji.ac.il/people/itay-kaplan">Itay Kaplan</a> (Hebrew University of Jerusalem)</li>
+<li>Konstantinos Kartas (IMJ-PRG/Sorbonne, Paris)</li>
+<li><a href="https://www.uni-muenster.de/Logik/hils/">Martin Hils</a> (Universit&auml;t M&uuml;nster)</li>
+  <li><a href="https://remijaoui.github.io/">Rémi Jaoui</a> (CNRS/Institut Camille Jordan, Lyon)</li>
+  <li><a href="https://poisson.phc.dm.unipi.it/~mennuni/">Rosario Mennuni</a> (Universit&agrave; di Pisa)</li>
+  <li><a href="https://www.aucegypt.edu/fac/isabel">Isabel M&uuml;ller</a> (American University in Cairo)</li>
+  <li><a href="https://www.ucm.es/dpalacin/">Daniel Palacin</a> (Universidad Complutense de Madrid)</li>
+  <li><a href="https://sites.google.com/berkeley.edu/adelepadgett/home">Adele Padgett</a> (McMaster University, Hamilton)</li>
+  <li><a href="https://math.haifa.ac.il/kobi/">Kobi Peterzil</a> (University of Haifa)</li>
+  <li><a href="https://math.nd.edu/people/faculty/anand-pillay/">Anand Pillay</a> (University of Notre Dame)</li>
+  <li><a href="https://www.nramseymath.com/">Nick Ramsey</a> (University of Notre Dame)</li>
+  <li><a href="https://www.math.ens.psl.eu/~rideau/en/index.html">Silvain Rideau-Kikuchi</a> (CNRS/ENS, Paris)</li>
+  <li><a href="https://research.manchester.ac.uk/en/persons/omar.sanchez">Omar Leon Sanchez</a> (University of Manchester)</li>
+<li><a href="http://home.mathematik.uni-freiburg.de/valentin/index-eng.html">Nadja Hempel Valentin</a> (Heinrich-Heine-Universit&auml;t D&uuml;sseldorf)</li>
+  <li><a href="https://home.mathematik.uni-freiburg.de/ziegler/">Martin Ziegler</a> (Alber-Ludwigs-Universit&auml;t Freiburg)</li>
 </ul>
 </body>
 <html>
