@@ -27,7 +27,7 @@
   <li><a href="https://www.math.ens.psl.eu/~rideau/en/index.html">Silvain Rideau-Kikuchi</a> (CNRS/ENS, Paris)</li>
   <li><a href="https://research.manchester.ac.uk/en/persons/omar.sanchez">Omar Leon Sanchez</a> (University of Manchester)</li>
 <li><a href="http://home.mathematik.uni-freiburg.de/valentin/index-eng.html">Nadja Hempel Valentin</a> (Heinrich-Heine-Universit&auml;t D&uuml;sseldorf)</li>
-  <li><a href="https://home.mathematik.uni-freiburg.de/ziegler/">Martin Ziegler</a> (Alber-Ludwigs-Universit&auml;t Freiburg)</li>
+  <li><a href="https://home.mathematik.uni-freiburg.de/ziegler/">Martin Ziegler</a> (Albert-Ludwigs-Universit&auml;t Freiburg)</li>
 </ul>
 </body>
 <html>
