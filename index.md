@@ -19,12 +19,12 @@ Scientific committee: <a href="http://www.sylvyanscombe.com/">Sylvy Anscombe</a>
 Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/">Charlotte Bartnick</a>, <a href="https://fgallinaro.github.io/">Francesco Gallinaro</a>, <a href="https://home.mathematik.uni-freiburg.de/pizarro/index.html">Amador Martin-Pizarro</a>. </p>
 
  <p align="center">
-  <img alt="ANR" src="anr-logo2.jpg" width="200">
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="DFG" src="dfg_logo3.jpg" width="400">
+  <img align="left" alt="ANR" src="anr-logo2.jpg" width="200">
+   
+  <img align="right" alt="DFG" src="dfg_logo3.jpg" width="400">
 </p>
 
- <p align="center">
- <img width="400" src="logo_freiburg.png" >
+ <p >
+ <img align="center" width="400" src="logo_freiburg.png" >
  </p>
 <html>
