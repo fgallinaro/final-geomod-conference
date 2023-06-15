@@ -8,13 +8,13 @@
 <p>A tentative list of speakers is as follows:</p>
 
 <ul> 
-<li>Benjamin Castle (Ben-Gurion University of the Negev, Be'er Sheva)</li>
+  <li><a href="https://www.math.bgu.ac.il/en/research/faculty">Benjamin Castle</a> (Ben-Gurion University of the Negev, Be'er Sheva)</li>
   <li><a href="https://www.math.ens.psl.eu/~zchatzid/">Zoé Chatzidakis</a> (CNRS, Paris) </li>
 <li><a href="https://www.math.ucla.edu/~chernikov/">Artem Chernikov</a> (UCLA, Los Angeles) </li>
-<li>Javier de la Nuez González (KIAS, Seoul)</li>
+<li><a href="https://www.kias.re.kr/kias/schools/mathmaticsPeople/listRsrchFellows.do?menuNo=402015">Javier de la Nuez González</a> (KIAS, Seoul)</li>
   <li><a href="https://choum.net/~chris/page_perso/">Christian d’Elbée</a> (Universit&auml;t Bonn/University of Leeds)</li>
   <li><a href="https://mathematics.huji.ac.il/people/itay-kaplan">Itay Kaplan</a> (Hebrew University of Jerusalem)</li>
-<li>Konstantinos Kartas (IMJ-PRG/Sorbonne, Paris)</li>
+  <li><a href="https://sites.google.com/view/kartaskostas">Konstantinos Kartas</a> (CNRS/IMJ-PRG/Sorbonne, Paris)</li>
 <li><a href="https://www.uni-muenster.de/Logik/hils/">Martin Hils</a> (Universit&auml;t M&uuml;nster)</li>
   <li><a href="https://remijaoui.github.io/">Rémi Jaoui</a> (CNRS/Institut Camille Jordan, Lyon)</li>
   <li><a href="https://poisson.phc.dm.unipi.it/~mennuni/">Rosario Mennuni</a> (Universit&agrave; di Pisa)</li>
