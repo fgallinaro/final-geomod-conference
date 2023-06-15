@@ -20,12 +20,12 @@ Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/
 
 <p float="left">
   <img src="anr_logo.png" width="100" />
-  <img src="dfg_logo.png" width="200" /> 
+  <img src="dfg_logo3.jpg" width="200" /> 
   <img src="logo_freiburg.png" width="100" />
 </p>
 
  
- <img width="200" src="anr_logo.png">                                                         <img width="400" src="dfg_logo.png"> 
+ <img width="250" src="anr_logo.png">                                                         <img width="400" src="dfg_logo3.jpg"> 
  
  <img width=500 src="logo_freiburg.png" >
 <html>
