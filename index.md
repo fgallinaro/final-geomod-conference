@@ -18,6 +18,13 @@ Scientific committee: <a href="http://www.sylvyanscombe.com/">Sylvy Anscombe</a>
 <p>
 Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/">Charlotte Bartnick</a>, <a href="https://fgallinaro.github.io/">Francesco Gallinaro</a>, <a href="https://home.mathematik.uni-freiburg.de/pizarro/index.html">Amador Martin-Pizarro</a>. </p>
 
+ <p align="center">
+  <img alt="Light" src="anr_logo.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="dfg_logo3.jpg" width="45%">
+</p>
+
+ 
 <p float="left">
   <img src="anr_logo.png" width="100" />
   <img src="dfg_logo3.jpg" width="200" /> 
