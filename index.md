@@ -1,6 +1,6 @@
 <html>
 <body>
-This is the webpage for the final conference of the network <a href="https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html#">GEOMOD</a>, to be held in Freiburg from the 13th to the 17th of November 2023. The conference will start on the 13th (Monday) around 9:30AM and it will end on the 17th (Friday) around 4PM.
+This is the webpage for the final conference of the network <a href="https://home.mathematik.uni-freiburg.de/pizarro/GeoMod/index.html#">GEOMOD</a>, to be held in Freiburg from the 13th to the 17th of November 2023. The conference will start on the 13th (Monday) around 9:30AM and it will end on the 17th (Friday), probably around 4PM.
     <h3> </h3>
  <p> Registration is now open. <b>Registration deadline: 10th September 2023.</b> </p>
   
