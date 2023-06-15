@@ -20,5 +20,5 @@ Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/
  
  <img src="anr_logo.png">                                                         <img src="dfg_logo.png"> 
  
- <img src="logo_freiburg.png" width=50%>
+ <img width=50% src="logo_freiburg.png" >
 <html>
