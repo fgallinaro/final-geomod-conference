@@ -17,5 +17,9 @@ To contact the organizing committee, you may send an e-mail at <a href="&#109;&#
 Scientific committee: <a href="http://www.sylvyanscombe.com/">Sylvy Anscombe</a> (Paris), <a href="https://ivv5hpp.uni-muenster.de/u/baysm/">Martin Bays</a> (M&uuml;nster), <a href="https://people.math.osu.edu/conant.38/">Gabriel Conant</a> (Ohio), <a href="https://www.math.uwaterloo.ca/~rmoosa/">Rahim Moosa</a> (Waterloo), <a href="http://math.univ-lyon1.fr/homes-www/wagner/fowae.html">Frank Wagner</a> (Lyon). </p>
 <p>
 Organising committee: <a href="https://home.mathematik.uni-freiburg.de/bartnick/">Charlotte Bartnick</a>, <a href="https://fgallinaro.github.io/">Francesco Gallinaro</a>, <a href="https://home.mathematik.uni-freiburg.de/pizarro/index.html">Amador Martin-Pizarro</a>. </p>
-  
+ 
+ <img src="anr_logo.png">                                                         <img src="dfg_logo.png"> 
+ 
+ 
+ <img src="logo_freiburg.png" width=50% height=50%>
 <html>
