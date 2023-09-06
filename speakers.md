@@ -28,6 +28,7 @@
   <li><a href="https://www.nramseymath.com/">Nick Ramsey</a> (University of Notre Dame)</li>
   <li><a href="https://www.math.ens.psl.eu/~rideau/en/index.html">Silvain Rideau-Kikuchi</a> (CNRS/ENS, Paris)</li>
   <li><a href="https://research.manchester.ac.uk/en/persons/omar.sanchez">Omar Leon Sanchez</a> (University of Manchester)</li>
+  <li><a href="https://math.berkeley.edu/~scanlon/"> Tom Scanlon</a> (UC Berkeley)</li>
 <li><a href="https://www.math.hhu.de/lehrstuehle-/-personen-/-ansprechpartner/innen/lehrstuehle-des-mathematischen-instituts/lehrstuhl-fuer-algebra-und-zahlentheorie/team/dr-nadja-valentin">Nadja Hempel Valentin</a> (Heinrich-Heine-Universit&auml;t D&uuml;sseldorf)</li>
   <li><a href="https://home.mathematik.uni-freiburg.de/ziegler/">Martin Ziegler</a> (Albert-Ludwigs-Universit&auml;t Freiburg)</li>
 </ul>
