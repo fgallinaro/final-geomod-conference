@@ -15,9 +15,9 @@
  
  <p>The train station in Freiburg is <a href="https://www.bahnhof.de/freiburg-breisgau-hbf">Freiburg (Breisgau) Hbf</a>. When you buy your tickets, be careful <b> not to confuse this with Fribourg, which is in Switzerland</b>. </p>
 
- <p>If you are coming from France, there are connections from Mulhouse (with a short change at M&uuml;llheim, see  https://www.rvf.de/fr/fahrkarten-tarife/fahren-nach-frankreich/dual-mulhouse-en-train) as well as from Strasbourg (changing in Offenburg). The fare Mulhouse-Freiburg  is a special fare that you buy directly at the ticket vending machine. Besides, there are several high-speed trains Paris-Karlsruhe-Freiburg. There is a direct TGV Paris Est-Freiburg once a day (departing at 5:22pm from Paris Est and arriving in Freiburg at 8:30pm).</p>
+ <p>If you are coming from France, there are connections from Mulhouse (with a short change at M&uuml;llheim, see  <a href="https://www.rvf.de/fr/fahrkarten-tarife/fahren-nach-frankreich/dual-mulhouse-en-train">here</a>) as well as from Strasbourg (changing in Offenburg). The fare Mulhouse-Freiburg  is a special fare that you buy directly at the ticket vending machine. Besides, there are several high-speed trains Paris-Karlsruhe-Freiburg. There is a direct TGV Paris Est-Freiburg once a day (departing at 5:22pm from Paris Est and arriving in Freiburg at 8:30pm).</p>
 
-<p>From Strasbourg you could also take a direct FlixBus (https://www.flixbus.de/busverbindung/fernbus-strassburg-strasbourg-freiburg-ibr). Take into account that the FlixBus stop in Strasbourg is not next to the central train station.</p>
+<p>From Strasbourg you could also take a direct <a href="https://www.flixbus.de/busverbindung/fernbus-strassburg-strasbourg-freiburg-ibr">FlixBus</a>. Take into account that the FlixBus stop in Strasbourg is not next to the central train station.</p>
  
  <h2> By plane </h2>
  <p>The best airports to reach Freiburg are Frankfurt (FRA) and Basel (BSL). </p>
