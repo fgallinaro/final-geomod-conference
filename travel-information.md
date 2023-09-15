@@ -24,6 +24,8 @@
  <p>There is a <a href="https://www.freiburger-reisedienst.de/index.php?lang=en">direct bus</a> from Basel Airport to Freiburg; alternatively, you can take a <a href="https://www.bvb.ch/wp-content/bvb/dokumente/diverse_unterlagen/infoflyer_linie_50.pdf">bus</a> to Basel train station SBB and then the <a href="https://www.bahn.de/">train</a>. </p>
  <p>The train ride from Frankfurt airport to Freiburg is about two hours. Several airlines (Lufthansa and partner airlines, etc.) offer the <a href="https://www.bahn.de/service/buchung/bahn_und_flug/rail-and-fly-english">Rail&Fly</a> option to combine your flight ticket with a train ticket. We recommed this option if you are flying to/from Frankfurt.</p>
 
+<p> <b>Note</b>: On Saturday, November 18th there will be no high-speed train on part of the railway between Freiburg and Frankfurt due to construction work. If you are planning on flying back from Frankfurt on the 18th, make sure to plan your train journey accordingly.</p>
+
 
 </body>
 <html>
