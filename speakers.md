@@ -8,12 +8,11 @@
 
 
 <body>
-<p>A tentative list of speakers is as follows:</p>
+<p>The list of speakers is as follows:</p>
 
 <ul> 
   <li><a href="https://www.math.bgu.ac.il/en/research/faculty">Benjamin Castle</a> (Ben-Gurion University of the Negev, Be'er Sheva)</li>
   <li><a href="https://www.math.ens.psl.eu/~zchatzid/">Zoé Chatzidakis</a> (CNRS, Paris) </li>
-<li><a href="https://www.math.ucla.edu/~chernikov/">Artem Chernikov</a> (UCLA, Los Angeles) </li>
   <li><a href="https://choum.net/~chris/page_perso/">Christian d’Elbée</a> (Universit&auml;t Bonn/University of Leeds)</li>
   <li><a href="https://mathematics.huji.ac.il/people/itay-kaplan">Itay Kaplan</a> (Hebrew University of Jerusalem)</li>
   <li><a href="https://sites.google.com/view/kartaskostas">Konstantinos Kartas</a> (IMJ-PRG/Sorbonne, Paris)</li>
