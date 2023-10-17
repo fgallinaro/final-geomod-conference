@@ -14,7 +14,7 @@
   <li><a href="https://www.math.bgu.ac.il/en/research/faculty">Benjamin Castle</a> (Ben-Gurion University of the Negev, Be'er Sheva)</li>
   <li><a href="https://www.math.ens.psl.eu/~zchatzid/">Zoé Chatzidakis</a> (CNRS, Paris) </li>
   <li><a href="https://choum.net/~chris/page_perso/">Christian d’Elbée</a> (Universit&auml;t Bonn/University of Leeds)</li>
-  <li><a href="https://mathematics.huji.ac.il/people/itay-kaplan">Itay Kaplan</a> (Hebrew University of Jerusalem)</li>
+  <li><a href="https://mathematics.huji.ac.il/people/itay-kaplan">Itay Kaplan</a> (Hebrew University of Jerusalem, TBC)</li>
   <li><a href="https://sites.google.com/view/kartaskostas">Konstantinos Kartas</a> (IMJ-PRG/Sorbonne, Paris)</li>
 <li><a href="https://www.uni-muenster.de/Logik/hils/">Martin Hils</a> (Universit&auml;t M&uuml;nster)</li>
   <li><a href="https://remijaoui.github.io/">Rémi Jaoui</a> (CNRS/ICJ, Lyon)</li>
@@ -22,7 +22,7 @@
   <li><a href="https://www.aucegypt.edu/fac/isabel">Isabel M&uuml;ller</a> (American University in Cairo)</li>
   <li><a href="https://www.ucm.es/dpalacin/">Daniel Palacin</a> (Universidad Complutense de Madrid)</li>
   <li><a href="https://sites.google.com/berkeley.edu/adelepadgett/home">Adele Padgett</a> (McMaster University, Hamilton)</li>
-  <li><a href="https://math.haifa.ac.il/kobi/">Kobi Peterzil</a> (University of Haifa)</li>
+  <li><a href="https://math.haifa.ac.il/kobi/">Kobi Peterzil</a> (University of Haifa, TBC)</li>
   <li><a href="https://math.nd.edu/people/faculty/anand-pillay/">Anand Pillay</a> (University of Notre Dame)</li>
   <li><a href="https://www.nramseymath.com/">Nick Ramsey</a> (University of Notre Dame)</li>
   <li><a href="https://www.math.ens.psl.eu/~rideau/en/index.html">Silvain Rideau-Kikuchi</a> (CNRS/ENS, Paris)</li>
