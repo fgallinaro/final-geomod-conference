@@ -4,7 +4,7 @@
   <body>
       <center> 
     
-  <object data="https://fgallinaro.github.io/geomod-conference.github.io/schedule.pdf" 
+  <object data="https://fgallinaro.github.io/geomod-conference.github.io/Schedule.pdf" 
           width="800"
           height="500"> 
   </object> 
