@@ -4,7 +4,7 @@
   
   <body>
 
-    All talks will be held in Höorsaal II, in the Department of Geology, Albertstr. 23b. It is on the first floor (on the second floor if you speak American english).
+    All talks will be held in Höorsaal II, in the Department of Geology, Albertstr. 23b. It is on the first floor (on the second floor if you speak US english).
 
 
       <center> 
