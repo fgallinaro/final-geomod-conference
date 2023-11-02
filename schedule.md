@@ -7,10 +7,10 @@ All talks will be held in Höorsaal II, in the Department of Geology, Albertstr.
 
 
 <center> 
-<object type="text/html" data="https://fgallinaro.github.io/geomod-conference.github.io/Schedule.pdf" 
-          width="800"
-          height="500"> 
-</object> 
+ <p >
+ <img align="center" width="400" src="Program-1.png" >
+ </p>
+<html>
 </center>
 
 The lecture room is equipped with an efficient board system, similar to Oberwolfach if you are familiar with that. There are six boards arranged in three colums of two, sliding up and down.
