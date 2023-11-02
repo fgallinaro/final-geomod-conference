@@ -6,12 +6,11 @@
 All talks will be held in Höorsaal II, in the Department of Geology, Albertstr. 23b. It is on the first floor (on the second floor if you speak US english).
 
 
-<center> 
- <p >
- <img align="center" width="1000" src="Program-1.png" >
- </p>
-<html>
-</center>
+  <center> 
+     <p>
+       <img align="center" width="1000" src="Program-1.png" >
+     </p>
+  </center>
 
 A .pdf version, with the abstracts of the talks, can be downloaded <a href="https://fgallinaro.github.io/geomod-conference.github.io/ProgramAndAbstracts.pdf">here</a>. 
 
