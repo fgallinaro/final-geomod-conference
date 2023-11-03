@@ -10,11 +10,11 @@ All talks will be held in Höorsaal II, in the Department of Geology, Albertstr.
   </center>
 
 To move around Freiburg and in the area, you can use:
-<li>
-  <ul> <a href="https://www.vag-freiburg.de/">Public transportation.</a></ul>
-  <ul> <a href="https://www.bahn.de">Trains.</a></ul>
-  <ul> The <a href="https://www.frelo-freiburg.de/de/">city bike sharing service</a>.</ul>
-</li>
+<ul>
+  <li> <a href="https://www.vag-freiburg.de/">Public transportation.</a></li>
+  <li> <a href="https://www.bahn.de">Trains.</a></li>
+  <li> The <a href="https://www.frelo-freiburg.de/de/">city bike sharing service</a>.</li>
+</ul>
 
 </body>
 
