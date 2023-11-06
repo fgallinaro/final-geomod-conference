@@ -22,7 +22,6 @@
   <li><a href="https://www.aucegypt.edu/fac/isabel">Isabel M&uuml;ller</a> (American University in Cairo)</li>
   <li><a href="https://www.ucm.es/dpalacin/">Daniel Palacin</a> (Universidad Complutense de Madrid)</li>
   <li><a href="https://sites.google.com/berkeley.edu/adelepadgett/home">Adele Padgett</a> (McMaster University, Hamilton)</li>
-  <li><a href="https://math.haifa.ac.il/kobi/">Kobi Peterzil</a> (University of Haifa) <b>TBC</b></li>
   <li><a href="https://math.nd.edu/people/faculty/anand-pillay/">Anand Pillay</a> (University of Notre Dame)</li>
   <li><a href="https://www.nramseymath.com/">Nick Ramsey</a> (University of Notre Dame)</li>
   <li><a href="https://www.math.ens.psl.eu/~rideau/en/index.html">Silvain Rideau-Kikuchi</a> (CNRS/ENS, Paris)</li>
