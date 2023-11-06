@@ -1,3 +1,4 @@
+<html>
 There will be no talks on the afternoon of Wednesday 15th. We suggest/organize the following activities:
 <ul>
 <li> Hike (walking time 2h), departing at 2:45pm from Holbeinstr (Tram 2 stop). Hike to Brombergkopf (607m elevation) and head for coffee and cake at St. Valentin. Return at 5:45pm from Dorfstr (Tram 2 stop). Estimated costs: Tram ticket (single ticket/1h : 2,43€, 2x4 Ticket card: 19,4€) plus cost of food in St Valentin (<a href="https://www.sanktvalentin.eu/#karten">menu</a>).</li> 
@@ -8,3 +9,4 @@ There will be no talks on the afternoon of Wednesday 15th. We suggest/organize t
 
 <li>Visit to the the <a href="https://www.design-museum.de/en/information.html">Vitra design museum</a> in Weil am Rhein (individually organised, but feel free to ask us for any details). Estimated cost: 21€ (admission) plus 12€ (transportation).</li>
 </ul>
+</html>
