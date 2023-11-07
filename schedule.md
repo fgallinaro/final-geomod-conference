@@ -8,7 +8,7 @@ All talks will be held in Höorsaal II, in the Department of Geology, Albertstr.
 
   <center> 
      <p>
-       <img align="center" width="1000" src="Program-1.png" >
+       <img align="center" width="1000" src="Schedule-1.png" >
      </p>
   </center>
 
