@@ -13,10 +13,10 @@
 <ul> 
   <li><a href="https://www.math.bgu.ac.il/en/research/faculty">Benjamin Castle</a> (Ben-Gurion University of the Negev, Be'er Sheva)</li>
   <li><a href="https://www.math.ens.psl.eu/~zchatzid/">Zoé Chatzidakis</a> (CNRS, Paris) </li>
+  <li><a href="https://rcluckers.perso.math.cnrs.fr/">Raf Cluckers</a> (CNRS, Lille/Leuven) </li>
   <li><a href="https://choum.net/~chris/page_perso/">Christian d’Elbée</a> (Universit&auml;t Bonn/University of Leeds)</li>
   <li><a href="https://mathematics.huji.ac.il/people/itay-kaplan">Itay Kaplan</a> (Hebrew University of Jerusalem) </li>
   <li><a href="https://sites.google.com/view/kartaskostas">Konstantinos Kartas</a> (IMJ-PRG/Sorbonne, Paris)</li>
-<li><a href="https://www.uni-muenster.de/Logik/hils/">Martin Hils</a> (Universit&auml;t M&uuml;nster)</li>
   <li><a href="https://remijaoui.github.io/">Rémi Jaoui</a> (CNRS/ICJ, Lyon)</li>
   <li><a href="https://poisson.phc.dm.unipi.it/~mennuni/">Rosario Mennuni</a> (Universit&agrave; di Pisa)</li>
   <li><a href="https://www.aucegypt.edu/fac/isabel">Isabel M&uuml;ller</a> (American University in Cairo)</li>
