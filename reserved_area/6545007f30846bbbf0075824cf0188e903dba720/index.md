@@ -1,6 +1,6 @@
 Welcome to the reserved area of the conference website. Here you will find:
 
 <h3>   <a href="https://fgallinaro.github.io/geomod-conference.github.io/reserved_area/6545007f30846bbbf0075824cf0188e903dba720/Menu_Geomod.pdf">Menu for conference dinner</a> | <a href="https://fgallinaro.github.io/geomod-conference.github.io/reserved_area/6545007f30846bbbf0075824cf0188e903dba720/activities">Information on Wednesday afternoon activities</a> | <a href="https://fgallinaro.github.io/geomod-conference.github.io/reserved_area/6545007f30846bbbf0075824cf0188e903dba720/freiburg_map">Map of relevant locations</a> | <a href="https://fgallinaro.github.io/geomod-conference.github.io/reserved_area/6545007f30846bbbf0075824cf0188e903dba720/Freiburg_restaurants.pdf">Restaurant recommendations</a> | <a href="https://fgallinaro.github.io/geomod-conference.github.io/reserved_area/6545007f30846bbbf0075824cf0188e903dba720
-/map_reception.md">Directions to the Monday reception</a> </h3>
+/map_reception">Directions to the Monday reception</a> </h3>
 
 All talks will be held in H&ouml;orsaal II, in the Department of Geology, Albertstr. 23b. It is on the first floor (on the second floor if you speak American english).
