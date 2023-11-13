@@ -11,4 +11,5 @@ Map also available at <a href="https://uni-freiburg.de/universitaet/universitaet
   </center>
 
 </body>
+</html>
 
