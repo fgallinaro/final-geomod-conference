@@ -7,7 +7,7 @@
     <center> 
        <p>
          <img align="center" width="800" src="institutsviertelnord-580-070119-2.jpg" >
-     </p>
+       </p>
     </center>
 
   </body>
