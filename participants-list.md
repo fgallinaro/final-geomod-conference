@@ -26,6 +26,7 @@
 <li>Alberto Miguel Gómez (Imperial College)</li>
 <li>Ronan O'Gorman (UC Berkeley)</li>
 <li>Nadja Hempel (Düsseldorf)</li>
+<li>Bernhard Herwig (Freiburg)</li>
 <li>Akash Hossain (Paris-Saclay)</li>
 <li>Moreno Invitti (Lyon 1)</li>
 <li>Rémi Jaoui (CNRS (Lyon 1))</li>
