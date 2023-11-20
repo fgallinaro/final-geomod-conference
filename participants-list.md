@@ -7,7 +7,7 @@
 <li>Neer Bhardwaj (Weizmann Institute)</li>
 <li>Yvon Bossut (Lyon 1)</li>
 <li>Elisabeth Bouscaren (CNRS (Orsay))</li>
-<li>Thomas Blossier (Lyon 1 )</li>
+<li>Thomas Blossier (Lyon 1)</li>
 <li>Christoph Brackenhofer (Freiburg)</li>
 <li>Jordan Brown (UC Berkeley)</li>
 <li>Cas Burton (Manchester)</li>
